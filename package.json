@@ -1,0 +1,25 @@
+{
+  "name": "getuniquearray",
+  "version": "1.0.0",
+  "description": "Filter array of objects to get an array that is unique",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanfaiyazkhan/getUniqueArray.git"
+  },
+  "keywords": [
+    "unique",
+    "array",
+    "filter",
+    "objects"
+  ],
+  "author": "Rohan Faiyaz Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohanfaiyazkhan/getUniqueArray/issues"
+  },
+  "homepage": "https://github.com/rohanfaiyazkhan/getUniqueArray#readme"
+}
